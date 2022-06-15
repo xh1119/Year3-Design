@@ -3,4 +3,4 @@ This folder contains two models coded for Imperial College London Civil Engineer
 
 The first model - England_Water aims to output the distance, type, name, of the nearest water source based on your current location. The full dataset of the water samping point can be found on: https://environment.data.gov.uk/water-quality/view/download/new
 
-The second model - ML applies machine learning to classify water body and land. The orifinal dataset can be found on: https://www.kaggle.com/code/theyazilimci/satellite-classification-cnn/data
+The second model - ML applies machine learning to classify water body and land. The original dataset can be found on: https://www.kaggle.com/code/theyazilimci/satellite-classification-cnn/data
